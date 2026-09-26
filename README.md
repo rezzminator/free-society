@@ -46,7 +46,7 @@
       Block feature  
 
 ## In order to use this project, clone it first
-	git clone https://github.com/mreza0100/free-society
+	git clone https://github.com/rezzminator/free-society
 	cd ./free-society
 
 
@@ -67,4 +67,4 @@ For running Hellgate service you should start all other services and then starti
 My recommendation is <a href="https://github.com/tmux/tmux">tmux.</a>
 Now if Hellgate is up without any error you can go to <a href="http://localhost:10000">localhost:10000.</a>
 </pre>
-### You can find more information about instructions in [Hellgate models](https://github.com/mreza0100/golang-microService-boilerplate/tree/master/services/hellgate/graph/schema)
+### You can find more information about instructions in [Hellgate models](https://github.com/rezzminator/golang-microService-boilerplate/tree/master/services/hellgate/graph/schema)
